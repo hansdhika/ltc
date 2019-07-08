@@ -7,7 +7,7 @@ $ pkg install python git unzip<br>
 $ git clone https://github.com/hansdhika/ltc<br>
 $ cd ltc<br>
 $ unzip bot.zip<br>
-$ cd bot<br>
+$ cd ltcnew<br>
 $ pip install -r requirements.txt<br>
 $ python new.py phone_number<br>
 
